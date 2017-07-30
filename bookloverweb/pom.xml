@@ -13,7 +13,6 @@
     <artifactId>booklover-web</artifactId>
     <properties>
         <servlet.version>2.5</servlet.version>
-        <spring.framework.version>4.2.4.RELEASE</spring.framework.version>
     </properties>
 
     <dependencies>
